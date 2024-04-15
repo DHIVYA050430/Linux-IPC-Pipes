@@ -96,7 +96,7 @@ exit(EXIT_SUCCESS);
 }
 ```
 ## OUTPUT
-
+![Uploading ex 3.1.jpg…]()
 
 # RESULT:
 The program is executed successfully.
